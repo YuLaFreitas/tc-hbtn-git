@@ -1,3 +1,3 @@
 #Este arquivo é obrigatório em todos os projetos da escola
-## >>> v2.1.0
+## >>> v2.2.0
 ### realizando um pull request
